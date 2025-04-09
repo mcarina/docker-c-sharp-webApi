@@ -1,0 +1,6 @@
+@dockercsharpe_HostAddress = http://localhost:5095
+
+GET {{dockercsharpe_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
